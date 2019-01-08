@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  KeyHandler.cpp
+  main.cpp
+  Player.cpp
+c:\users\gameuser\desktop\space_station_rescue\source\player.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gameuser\desktop\space_station_rescue\source\player.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gameuser\desktop\space_station_rescue\source\player.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project.vcxproj -> C:\Users\gameuser\Desktop\Space_Station_Rescue\Debug\Project.exe
